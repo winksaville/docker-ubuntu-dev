@@ -1,5 +1,7 @@
 # Dockerfile for creating ubuntu dev image with python, nodejs, cmake and ninja
 
+Available at hug.docker.com [winksaville/ubuntu-dev](https://hub.docker.com/repository/docker/winksaville/ubuntu-dev)
+
 ## Pull image
 ```
 wink@3900x:~/prgs/docker/ubuntu-dev (master)
